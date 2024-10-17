@@ -10,9 +10,8 @@ This project implements three variations of GANs (Generative Adversarial Network
 ├── DL_A3_Q5_Architecture_1.ipynb  # Contains code for architecture 1
 ├── DL_A3_Q5_Architecture_2.ipynb  # Contains code for architecture 2
 ├── generate_new_images.ipynb      # Contains code to generate images from trained models
-├── dcgan/                         # Folder for DCGAN model outputs
-├── wgan/                          # Folder for WGAN model outputs
-└── wgan-gp/                       # Folder for WGAN-GP model outputs
+├── A3_output_architecture1/       # Get this file from google drive link below           
+└── A3_output_architecture2/       # Get this file from google drive link below            
 ```
 
 ## Architectures
@@ -60,6 +59,14 @@ To train the models, you need to run the cells in the following notebooks:
 ## How to Generate New Images
 
 Once the models are trained, you can generate new images using the `generate_new_images.ipynb` file. This notebook allows you to load trained models and generate new images based on user input.
+
+### Get Checkpoints:
+
+Architecture 1: https://drive.google.com/drive/folders/1fyZGvmIpiFI5zkWMmqwzZLQ9cuoULR40?usp=drive_link
+
+Architecture 2: https://drive.google.com/drive/folders/1ytmZFMPn3Wh4dM5shaRCyZPoG4qhWikp?usp=drive_link
+
+If the link is invalid, please contact: zw673@cornell.edu
 
 ### Steps to Generate Images:
 
